@@ -1,4 +1,4 @@
-# Image-classification 🖼️
+# Image-classification 🖼✈️
 > A Deep learning model model build using CNN to classify different objects present in CIFAR10 dataset 
 # Description
 CIFAR is an acronym that stands for the Canadian Institute For Advanced Research and the CIFAR-10 dataset was developed along with the CIFAR-100 dataset by researchers at the CIFAR institute.
